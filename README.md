@@ -1,6 +1,6 @@
 # primeiro_projecto
 
-rod
+Fábio Rodrigo
 
 ## Getting Started
 
